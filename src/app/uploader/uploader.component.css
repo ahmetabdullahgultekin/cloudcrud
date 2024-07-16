@@ -1,0 +1,53 @@
+/* You can add global styles to this file, and also import other style files */
+/* src/app/file-upload/file-upload.component.css 
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  input[type="file"] {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .upload-result {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #28a745;
+    border-radius: 4px;
+    background-color: #d4edda;
+    color: #155724;
+  }
+  
+  .upload-result a {
+    color: #155724;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .upload-result a:hover {
+    text-decoration: underline;
+  }
+  */
